@@ -1,8 +1,3 @@
 #Guesstimate
-Estimate all the things!
-See [GetGuesstimate.com](http://www.getguesstimate.com/) to use.
-
-#Developing Locally
-`` npm install``
-`` npm start ``
+All new development has been moved [here](https://github.com/getguesstimate/guesstimate-app)
 
